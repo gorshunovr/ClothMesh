@@ -1,0 +1,11 @@
+.DS_Store
+
+# Xcode
+ClothMesh/build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Large generated media (re-create with the tools in ClothMesh/Tools)
+ClothMesh/Soundtrack/*.wav
+*.mp4
